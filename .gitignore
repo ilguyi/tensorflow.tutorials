@@ -1,0 +1,21 @@
+# MAC OS
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+# ipynb_checkpoints
+tf.version.1/*/.ipynb_checkpoints
+tf.version.2/*/.ipynb_checkpoints
+
+# graph or train folder
+tf.version.1/*/graphs
+tf.version.2/*/graphs
+tf.version.1/*/train
+tf.version.2/*/train
+
+# checkpoints folder
+checkpoints
+
+# data folder
+data
+
