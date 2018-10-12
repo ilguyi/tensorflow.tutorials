@@ -1,5 +1,6 @@
 # TensorFlow Tutorials
-
+* Final update: 2018. 10. 11
+* All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
 
@@ -7,7 +8,7 @@
 * `TensorFlow` above 1.11
   * [github.com/tensorflow/models](https://github.com/tensorflow/models)
   * `inception_v3` and `vgg_19` pretrained models
-* Python above 3.6
+* Python 3.6
   * `numpy`, `matplotlib`, `PIL`
 * Jupyter notebook
 * OS X and Linux (Not validated on Windows but probably it would work)
