@@ -98,6 +98,10 @@
 * Image Segmentation with U-Net
   - [01.image_segmentation.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.1/06.images/01.image_segmentation.ipynb)
 
+### Sequences
+* Sentiment Classification
+  - [01.sentiment.classification.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.1/07.sequences/01.sentiment.classification.ipynb)
+
 
 
 
