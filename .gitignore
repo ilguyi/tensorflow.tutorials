@@ -6,6 +6,9 @@
 # ipynb_checkpoints
 tf.version.*/*/.ipynb_checkpoints
 
+# __pycache__
+tf.version.*/*/__pycache__
+
 # graph or train folder
 tf.version.*/*/graphs
 tf.version.*/*/train
