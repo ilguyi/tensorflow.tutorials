@@ -1,11 +1,11 @@
 # TensorFlow Tutorials
-* Final update: 2018. 10. 16
+* Final update: 2018. 12. 8
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
 
 ### Prerequisites
-* `TensorFlow` above 1.11
+* `TensorFlow` above 1.12
   * [github.com/tensorflow/models](https://github.com/tensorflow/models)
   * `inception_v3` and `vgg_19` pretrained models
 * Python 3.6
@@ -14,7 +14,22 @@
 * OS X and Linux (Not validated on Windows but probably it would work)
 
 
-## Contents
+## Contents (TF version 2.x style)
+
+### TensorFlow Basic Syntax
+* `tf.keras` and `eager.execution`
+  - [01.tf.keras.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/01.tf.basic/01.tf.keras.ipynb)
+  - [02.guideline.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/01.tf.basic/02.guideline.eager.ipynb)
+  - [03.tf.data.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/01.tf.basic/03.tf.data.ipynb)
+
+
+### Regression
+* Logistic Regression
+  - [01.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/01.mnist.tf.data.eager.ipynb)
+
+
+
+## Contents (TF version 1.x style)
 
 ### TensorFlow Basic Syntax
 * Overview and Operations
