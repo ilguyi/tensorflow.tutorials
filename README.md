@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2018. 12. 8
+* Final update: 2018. 12. 19
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
@@ -26,6 +26,20 @@
 ### Regression
 * Logistic Regression
   - [01.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/01.mnist.tf.data.eager.ipynb)
+
+
+### Convolutional Neural Networks
+* Simple CNN model (LeNet5) and regularization & batch norm
+  - [01.mnist.LeNet5.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/01.mnist.LeNet5.ipynb)
+  - [02.mnist.LeNet5.functional.API.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/02.mnist.LeNet5.functional.API.ipynb)
+  - [03.mnist.LeNet5.with.regularization.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/03.mnist.LeNet5.with.regularization.ipynb)
+
+
+
+### Generative Models
+* Generative Adversarial Networks
+  - [01.dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/05.generative_models/01.dcgan.ipynb)
+
 
 
 
