@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2018. 12. 19
+* Final update: 2019. 02. 27
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
@@ -7,14 +7,14 @@
 ### Prerequisites
 * `TensorFlow` above 1.12
   * [github.com/tensorflow/models](https://github.com/tensorflow/models)
-  * `inception_v3` and `vgg_19` pretrained models
+  * `inception_v3` and `vgg_19` pretrained models for tensorflow version 1 codes
 * Python 3.6
   * `numpy`, `matplotlib`, `PIL`
 * Jupyter notebook
 * OS X and Linux (Not validated on Windows but probably it would work)
 
 
-## Contents (TF version 2.x style)
+## Contents (TF version 2.0 style)
 
 ### TensorFlow Basic Syntax
 * `tf.keras` and `eager.execution`
@@ -26,6 +26,7 @@
 ### Regression
 * Logistic Regression
   - [01.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/01.mnist.tf.data.eager.ipynb)
+  - [02.regression/02.mnist.model.fit.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/02.regression/02.mnist.model.fit.ipynb)
 
 
 ### Convolutional Neural Networks
