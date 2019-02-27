@@ -26,7 +26,7 @@
 ### Regression
 * Logistic Regression
   - [01.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/01.mnist.tf.data.eager.ipynb)
-  - [02.regression/02.mnist.model.fit.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/02.regression/02.mnist.model.fit.ipynb)
+  - [02.mnist.model.fit.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/02.regression/02.mnist.model.fit.ipynb)
 
 
 ### Convolutional Neural Networks
@@ -34,8 +34,14 @@
   - [01.mnist.LeNet5.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/01.mnist.LeNet5.ipynb)
   - [02.mnist.LeNet5.functional.API.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/02.mnist.LeNet5.functional.API.ipynb)
   - [03.mnist.LeNet5.with.regularization.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/03.mnist.LeNet5.with.regularization.ipynb)
+  - [04.vgg16.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/04.vgg16.ipynb)
 
 
+### Recurrent Neural Networks
+* Many to one problem (Sentiment classification)
+  - [01.rnn.basic.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/01.rnn.basic.ipynb)
+  - [02.simple.sequence.classification.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/02.simple.sequence.classification.ipynb)
+  - [03.sentiment.classfication.imdb.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/03.sentiment.classfication.imdb.ipynb)
 
 ### Generative Models
 * Generative Adversarial Networks
