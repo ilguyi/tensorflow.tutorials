@@ -26,7 +26,7 @@
 ### Regression
 * Logistic Regression
   - [01.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/01.mnist.tf.data.eager.ipynb)
-  - [02.mnist.model.fit.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/02.regression/02.mnist.model.fit.ipynb)
+  - [02.mnist.model.fit.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/02.regression/02.mnist.model.fit.ipynb)
 
 
 ### Convolutional Neural Networks
