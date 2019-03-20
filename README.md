@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2019. 03. 11.
+* Final update: 2019. 03. 21.
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
@@ -42,6 +42,8 @@
   - [01.rnn.basic.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/01.rnn.basic.ipynb)
   - [02.simple.sequence.classification.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/02.simple.sequence.classification.ipynb)
   - [03.sentiment.classfication.imdb.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/03.sentiment.classfication.imdb.ipynb)
+  - [04.text.generation.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/04.rnn/04.text.generation.ipynb)
+
 
 ### Generative Models
 * Generative Adversarial Networks
