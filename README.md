@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2019. 03. 21.
+* Final update: 2019. 04. 17.
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
@@ -141,7 +141,8 @@
   - [01.sentiment.classification.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.1/07.sequences/01.sentiment.classification.ipynb)
 
 
-
-
 ## Author
 Il Gu Yi
+
+### Lecture Notes
+[link](https://www.notion.so/with-TF-60e03aa6dc8542339fe5de89ebee853b)
