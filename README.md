@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2019. 04. 17.
+* Final update: 2019. 04. 18.
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
@@ -34,7 +34,9 @@
   - [01.mnist.LeNet5.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/01.mnist.LeNet5.ipynb)
   - [02.mnist.LeNet5.functional.API.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/02.mnist.LeNet5.functional.API.ipynb)
   - [03.mnist.LeNet5.with.regularization.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/03.mnist.LeNet5.with.regularization.ipynb)
+* Load vgg16 and transfer learning with vgg16
   - [04.vgg16.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/04.vgg16.ipynb)
+  - [05.transfer.learning.ipynb](https://nbviewer.jupyter.org/github/ilguyi/tensorflow.tutorials/tree/master/tf.version.2/03.cnn/05.transfer.learning.ipynb)
 
 
 ### Recurrent Neural Networks
