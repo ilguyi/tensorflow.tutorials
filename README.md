@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
-* Final update: 2019. 04. 18.
+* Final update: 2019. 04. 30.
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
