@@ -1,14 +1,14 @@
 # TensorFlow Tutorials
-* Final update: 2019. 04. 30.
+* Final update: 2019. 06. 24.
 * All right reserved @ Il Gu Yi 2018
 
 ## Getting Started
 
 ### Prerequisites
-* `TensorFlow` above 1.13
+* `TensorFlow` above 1.14
   * [github.com/tensorflow/models](https://github.com/tensorflow/models)
   * `inception_v3` and `vgg_19` pretrained models for tensorflow version 1 codes
-* Python 3.6
+* Python 3.6 or 3.7
   * `numpy`, `matplotlib`, `PIL`
 * Jupyter notebook
 * OS X and Linux (Not validated on Windows but probably it would work)
