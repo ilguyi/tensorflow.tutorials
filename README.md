@@ -5,8 +5,8 @@
 ## Getting Started
 
 ### Prerequisites
-* `TensorFlow` above 1.14
-  * [github.com/tensorflow/models](https://github.com/tensorflow/models)
+* `TensorFlow` above 1.13
+  * [github.com/tensorflow/models](https://github.com/tensorflow/models) for tensorflow version 1 codes
   * `inception_v3` and `vgg_19` pretrained models for tensorflow version 1 codes
 * Python 3.6 or 3.7
   * `numpy`, `matplotlib`, `PIL`
