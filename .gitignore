@@ -12,6 +12,7 @@ tf.version.*/*/__pycache__
 # graph or train folder
 tf.version.*/*/graphs
 tf.version.*/*/train
+tf.version.*/*/training_checkpoints
 
 # result files (jpg, png, gif)
 tf.version.*/*/*.jpg
